@@ -1,2 +1,2 @@
 FROM gcr.io/datadoghq/agent:latest
-ADD conf.d/redisdb.yaml /etc/datadog-agent/conf.d/redisdb.yaml
+ADD conf.d/wordpress.yaml /etc/datadog-agent/conf.d/wordpress.yaml
